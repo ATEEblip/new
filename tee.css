@@ -1,0 +1,116 @@
+body{color: black;
+background-color:white;
+border-radius: 80px;
+
+}
+
+nav {
+    background-color: plum;
+    padding: 3px;
+    text-align:center;
+     font-size: larger;
+     text-transform: capitalize;
+}
+ul li {
+    display: inline;
+
+}
+a {
+    color: white;
+    text-decoration:none;
+    background-color:blue;
+    
+}
+ul li {
+    padding: 3px;
+    margin: 6px;
+    background-color: white;
+    color:black;
+    border-radius: 5px; 
+      
+
+}
+h2{
+    background-color: white;
+    display: inline-block;
+    margin-left: 50%;
+    margin-top: 20%;
+    border: 5px solid burlywood;
+    border-width: 7px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 5px 10px;
+} 
+
+#home{ 
+    display: flex;
+    justify-content: center;
+    
+}
+.home-left{ 
+    margin-right: 20px;
+
+}
+img {
+    border-radius: 20px;
+    justify-content: left;
+    margin-right: 5px;
+    margin-bottom: 10 px;
+}
+
+.par{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 20px;
+
+}
+
+.bts{ 
+    text-transform: uppercase;
+    
+}
+/* .places{ 
+    position: relative;
+}
+.place{ 
+    position: absolute; 
+    right: 80px ;
+    
+    
+
+} */ 
+.mtt{ 
+    text-transform: capitalize;
+    text-align: center;
+    font-size: large;
+    color:black;
+    text-align: left;
+    font-size:xx-large;
+    
+}
+
+.serivces{ 
+    text-decoration: line-through;
+}
+
+#skills ol{ 
+ list-style-position: inside;
+ font-size: larger;
+ text-transform: capitalize;
+}
+.mit{
+    background-image: url("tea.jpg");
+    background-position: left;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+ background-color: beige;
+ margin: 30px;
+ padding:25px ;
+ border-style: none;
+ border-radius: 60px 5px 15px 90px;
+ padding-top: 30px;   
+}
+
+
